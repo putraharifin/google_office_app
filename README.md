@@ -25,7 +25,7 @@ Pastikan Anda sudah memasang komponen berikut di komputer Anda:
 ### 2. Persiapan Proyek (Setup)
 1. Clone repositori ini atau unduh berkas ZIP-nya:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/putraharifin/google_office_app.git 
    ```
 2. Buka folder proyek menggunakan **VS Code**.
 3. Buka **Terminal** di VS Code, lalu unduh semua *dependencies* / *packages* yang diperlukan dengan mengetik perintah:
